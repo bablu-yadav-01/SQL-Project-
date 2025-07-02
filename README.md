@@ -1,2 +1,3 @@
 # SQL-Project-
-Sales And Finance Performance of Atliq Hardware Company
+Finance and Supply Chain Analytics
+
